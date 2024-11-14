@@ -1,0 +1,13 @@
+button{
+    padding: 20px;
+    background: none;
+    border: solid 1px red;
+    border-radius: 20px;
+    cursor: pointer;
+    transition-property: background;
+    transition: 0.5s ease;
+
+}
+button:hover{
+    background: rgb(224, 128, 128);
+}
